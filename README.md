@@ -13,6 +13,7 @@ Security: JWT for authentication, Bcrypt for password hashing
 1. Clone the Repository
 
 https://github.com/naikkanchana/online-auction-system.git
+
 cd auction-app
 
 2. Install Dependencies
