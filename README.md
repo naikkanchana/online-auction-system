@@ -47,7 +47,7 @@ npx sequelize db:migrate
 
 #  Run the Backend
 cd server
-npm start
+npm start or node server.js
 
 # Run the Frontend
 cd client
